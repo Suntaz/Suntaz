@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Suntaz
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development.
 - 🌱 I’m currently learning Java spring boot and spring cloud.
 - 📫 mail: ksasqs801@gmail.com
 
